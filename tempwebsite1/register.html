@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	     <title>Enrollment Form</title>
+		 <link rel="stylesheet" href="register.css">
+		 <script  type = "text/javascript" >
+		
+			
+			
+			function validation(){
+
+			var user = document.getElementById('user').value;
+			var user2 = document.getElementById('user2').value;
+			var pass = document.getElementById('pass').value;
+			var confirmpass = document.getElementById('conpass').value;
+			var mobileNumber = document.getElementById('mobileNumber').value;
+			var emails = document.getElementById('emails').value;
+			var score= document.getElementById('score').value;
+			var user3 = document.getElementById('user3').value;
+			var dobi = document.getElementById('dobi').value;
+
+
+
+
+
+			if(user == ""){
+				document.getElementById('username1').innerHTML =" ** Please fill the First name field";
+				return false;
+			}
+			if((user.length <= 2) || (user.length > 20)) {
+				document.getElementById('username1').innerHTML =" ** Username lenght must be between 2 and 20";
+				return false;	
+			}
+			if(!isNaN(user)){
+				document.getElementById('username1').innerHTML =" ** only characters are allowed";
+				return false;
+			}
+			
+			
+			
+			if(user2 == ""){
+				document.getElementById('username2').innerHTML =" ** Please fill the Last name field";
+				return false;
+			}
+			if((user2.length <= 2) || (user.length > 20)) {
+				document.getElementById('username2').innerHTML =" ** Username lenght must be between 2 and 20";
+				return false;	
+			}
+			if(!isNaN(user2)){
+				document.getElementById('username2').innerHTML =" ** only characters are allowed";
+				return false;
+			}
+			
+			if(user3 == ""){
+				document.getElementById('username3').innerHTML =" ** Please fill the address field";
+				return false;
+			}
+			
+			
+
+
+
+
+
+
+
+
+			if(pass == ""){
+				document.getElementById('passwords').innerHTML =" ** Please fill the password field";
+				return false;
+			}
+			if((pass.length <= 5) || (pass.length > 20)) {
+				document.getElementById('passwords').innerHTML =" ** Passwords lenght must be between  5 and 20";
+				return false;	
+			}
+
+
+			if(pass!=confirmpass){
+				document.getElementById('confrmpass').innerHTML =" ** Password does not match the confirm password";
+				return false;
+			}
+
+
+
+			if(confirmpass == ""){
+				document.getElementById('confrmpass').innerHTML =" ** Please fill the confirmpassword field";
+				return false;
+			}
+
+
+
+
+			if(mobileNumber == ""){
+				document.getElementById('mobileno').innerHTML =" ** Please fill the mobile Number field";
+				return false;
+			}
+			if(isNaN(mobileNumber)){
+				document.getElementById('mobileno').innerHTML =" ** user must write digits only not characters";
+				return false;
+			}
+			if(mobileNumber.length!=10){
+				document.getElementById('mobileno').innerHTML =" ** Mobile Number must be 10 digits only";
+				return false;
+			}
+			
+			if(score == ""){
+				document.getElementById('jeescore').innerHTML =" ** Please fill the Jee Score field";
+				return false;
+			}
+			if(isNaN(score)){
+				document.getElementById('jeescore').innerHTML =" ** user must write digits only not characters";
+				return false;
+			}
+			if(score.value>360){
+				document.getElementById('jeescore').innerHTML =" ** Jee Score must be less than 360";
+				return false;
+			}
+			
+			if(dobi == ""){
+				document.getElementById('birthdate').innerHTML =" ** Please fill the date of birth field";
+				return false;
+			}
+			
+
+
+
+
+			if(emails == ""){
+				document.getElementById('emailids').innerHTML =" ** Please fill the email idx` field";
+				return false;
+			}
+			if(emails.indexOf('@') <= 0 ){
+				document.getElementById('emailids').innerHTML =" ** @ Invalid Position";
+				return false;
+			}
+
+			if((emails.charAt(emails.length-4)!='.') && (emails.charAt(emails.length-3)!='.')){
+				document.getElementById('emailids').innerHTML =" ** . Invalid Position";
+				return false;
+			}
+			 }
+			 
+			/* function CalculateAge() {
+            var curYear = new Date().getUTCFullYear();
+            var age = curYear - document.getElementById('txtYear').value;
+            document.getElementById('Age').innerHTML ="your age is " + age;
+        }*/
+		
+		 function CalculateAge1() {
+            var curYear = new Date().getUTCFullYear();
+			var birthYear = new Date(document.getElementById('dobi').value).getUTCFullYear();
+            var age1 = curYear - birthYear;
+            document.getElementById('Age1').innerHTML ="your age is " + age1;
+        }
+		
+		
+		   function onchangecheckbox(checkbox){
+		     if(checkbox.checked) {
+                        document.getElementById('txtToggle').style.display="block";
+             }
+             else	{
+                     document.getElementById('txtToggle').style.display="none";
+             }					 
+			}
+			
+
+
+		
+		 </script>
+	</head>
+	<body>
+	<header>
+	        <nav>
+		        <h1>NIT PORT BLAIR</h1>
+		        <ul id="nav">
+			        <li><a class="homered" href="index.html">Menu</a></li>
+					<li><a class="homeblack" href="test.html">Home</a></li>
+				    <li><a class="homeblack" href="contact.html">Contact</a></li>
+					<li><a class="homeblack" href="booga.html">Admin Login</a></li>
+					<li><a class="homeblack" href="booga1.html">User Login</a></li>
+				    <li><a class="homegreen" href="register.html">Register</a></li>
+				    
+			    </ul>
+		    </nav>
+	    </header>
+	    <div class="simple-form">
+		<form action="register.php" method="POST" id="registration" name="myform" onsubmit="return validation()">
+		    <h1>Register Here</h1>
+		     <label>First Name: </label><br>
+            <input type="text" name="fname" id="user" placeholder="Enter your first name" pattern=".{3,}" onblur="return validation()"><br>
+			<span id="username1" class="text font-weight-bold" > </span><br>
+			<br>
+			 <label>Last Name: </label><br>
+			<input type="text" name="lname" id="user2" placeholder="Enter your last name" onblur="return validation()"><br>
+			<span id="username2" class="text-danger font-weight-bold"> </span><br>
+			<br>
+			
+			<label>Address: </label><br>
+			<input type="text" name="address" id="user3" placeholder="Enter your address" onblur="return validation()"><br>
+			<span id="username3" class="text-danger font-weight-bold"> </span><br>
+			<br> 
+			
+			<label>Password: </label><br>
+			<input type="password" name="password1" id="pass" placeholder="Enter your password" onblur="return validation()"><br>
+			<span id="passwords" class="text-danger font-weight-bold"> </span><br>
+			<br>
+			
+			 <label>Confirm Password: </label><br>
+			<input type="password" name="password2" id="conpass" placeholder="Enter your password again" onblur="return validation()"><br>
+			<span id="confrmpass" class="text-danger font-weight-bold"> </span><br>
+			<br>
+			
+			 <label>Mobile Number: </label><br>
+			<input type="number" name="num" id="mobileNumber" placeholder="Enter your mobile number" pattern=".{10,10}" onblur="return validation()"><br>
+			<span id="mobileno" class="text-danger font-weight-bold"> </span><br>
+			<br>
+			
+			 <label>JEE score: </label><br>
+			<input type="number" name="score" id="score" placeholder="Enter your JEE main score" maxlength="3" onblur="return validation()"><br>
+			<span id="jeescore" class="text-danger font-weight-bold"> </span><br>
+			<br>
+			 <label>Date of birth: </label><br>
+			<input type="date" name="dob" id="dobi" placeholder="Enter your date of birth as dd-mm-yyyy" onblur="CalculateAge1();" onblur="return validation();"><br>
+			<span id="birthdate" class="text-danger font-weight-bold"> </span><br>
+			<br>
+			<span id="Age1">Age = </span><br><br>
+               
+			
+			 <label>Email ID: </label><br>
+			<input type="email" name="email" id="emails" placeholder="Enter your e-mail id" onblur="return validation();"><br>
+			<span id="emailids" class="text-danger font-weight-bold"> </span><br>
+			<br>
+			
+			<label>Select Gender: </label><br>
+				<select name="gender" id="button1" required>
+					<option id="button1" value="Male">Male</option>
+					<option id="button1" value="Female">Female</option>
+					<option id="button1" value="Others">Others</option></select><br><br>
+					
+					
+			<label>Hobbies: </label><br>
+			    <input type="checkbox" name="hobbies" id="but" value="Dancing">Dancing &nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="checkbox" name="hobbies" id="but" value="Reading">Reading &nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="checkbox" name="hobbies" id="but" value="Playing Games">Playing Games &nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="checkbox" name="hobbies" value="Others" onclick="onchangecheckbox(this)" id="chkassociation"/>Others<br>
+					<input type="text" id="txtToggle" placeholder="Enter your hobby" style="display:none"/><br><br>
+			
+           
+			
+			
+			
+			<button type="submit" value="register" id="bot">Register</button>
+        </form>
+        </div>		
+	</body>
+
+
+</html>

@@ -1,0 +1,741 @@
+<!DOCTYPE.html>
+<div class="container">
+
+<div class="row">
+ <div class="col-xs-12">
+	<img src="contact_us.png" border="0" height="148" width="100%">
+  </div>
+</div>
+	
+
+
+<div class="row"> 
+ <div class="col-xs-12 col-md-12"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+		 Director
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+		<b style="color:#000">Prof. Anupam Basu</b><br>
+		
+
+Phone: +91-343-2546397<br>
+Fax: +91-343-2547375<br>
+Email: director@admin.nitdgp.ac.in
+		</font>
+		</div>
+    </div>
+
+ </div>
+ </div>
+ <div class="row"> 
+  <div class="col-xs-12 col-md-12"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+         Registrar I/C
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Shri Uday Chandra Mukherjee</b><br>
+
+
+Phone: +91-343-2545290<br>
+Fax: +91-343-2546406<br>
+Email: registrar@admin.nitdgp.ac.in
+		</font>
+		</div>
+    </div>
+
+ </div>
+</div>
+
+<div class="row"> 
+
+ <div class="col-xs-12 col-md-12"> 
+	<div class="col-xs-12 col-main">
+	<div style="width:100%; padding-left:10px; height:25px; background-color:#1BAAAA;padding:2px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+	&nbsp;&nbsp;Deans
+	</div>
+ 
+
+ <div class="col-xs-12 col-md-6"> 
+
+<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Dean (Faculty Welfare)</b><br>
+Prof. Siddhartha Sankar Thakur <br>
+Phone: +91-343-2754343 <br>
+Mobile: +91-9434788023 <br>
+Email: deanfaculty@admin.nitdgp.ac.in<br>
+<b style="color:#000">Dean (Planning & Development)</b><br>
+
+Prof. Kamal Bhattacharya<br>
+Phone: +91-343-2754180<br>
+Mobile : +91-9434788040<br>
+Email: deanpd@admin.nitdgp.ac.in<br>
+<b style="color:#000">Dean (Alumni Affairs & Outreach)</b><br>
+
+Prof. Nilotpal Banerjee<br>
+Phone: +91-0343-2752228<br>
+Mobile : +91-9434788009<br>
+Email: deanaao@admin.nitdgp.ac.in
+</font>
+</div>
+
+ 
+<div class="col-xs-12 col-md-6"> 
+	<font style="font-size:14px; font-family:calibri">
+	<b style="color:#000">Dean (Academic)</b><br>
+
+
+Prof. Indrajit Basak<br>
+Phone: +91-343-2754680<br>
+Mobile: +91-9434788109<br>
+Email: deanac@admin.nitdgp.ac.in<br>
+	<b style="color:#000">Dean (Research & Consultancy)</b><br>
+
+Prof. Ajit Kumar Meikap<br>
+Phone: +91-343-2754030<br>
+Mobile : +91-9434788060<br> 
+Email: deanresearch@admin.nitdgp.ac.in<br>
+	<b style="color:#000">Dean (Student Welfare)</b><br>
+
+
+Prof. Biswajit Halder<br>
+Phone: +91-343-2754679, +91-343-2754676/4677<br>
+Mobile : +91-9434788027<br>
+Email: deansw@admin.nitdgp.ac.in<br>
+
+
+	</font>
+</div>
+
+ </div>
+</div>
+</div>
+<div class="row"> 
+
+ <div class="col-xs-12 col-md-12"> 
+	<div class="col-xs-12 col-main">
+	<div style="width:100%; padding:10px; height:25px; background-color:#1BAAAA;padding:2px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+	&nbsp;&nbsp; Associate Deans
+	</div>
+ 
+
+ <div class="col-xs-12 col-md-6"> 
+
+<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Associate Dean (Academic & Examination)</b><br>
+
+Dr. S. Roy Barman<br>
+Phone: +91-343-2754038<br>
+Mobile : +91-9434789002<br>
+Email: subhankarroy.barman@bt.nitdgp.ac.in<br>
+Dr. P. S. Bhowmik<br>
+Phone: +91-343-2754332<br>
+Mobile : +91-9434788174<br>
+Email: psbhowmik@ee.nitdgp.ac.in<br>
+Dr. N. B. Hui<br>
+Phone: +91-343-2754688<br>
+Mobile : +91-9434788117<br>
+Email: nirmal.hui@me.nitdgp.ac.in<br>
+
+<b style="color:#000">Associate Dean (Alumni & Outreach)</b><br>
+
+Dr. Diptesh Das<br>	
+Phone: +91-343-2754183<br>
+Mobile : +91-9434788152<br>
+Email: diptesh.das@ce.nitdgp.ac.in<br>
+Dr. Shibendu Shekhar Roy<br>
+Phone : +91-343-2754702<br>
+Mobile  : +91-9434788150<br>
+Email: shibendu.roy@me.nitdgp.ac.in<br>
+</font>
+</div>
+
+ 
+<div class="col-xs-12 col-md-6"> 
+	<font style="font-size:14px; font-family:calibri">
+
+	<b style="color:#000">Associate Dean (Student Welfare)</b><br>
+	
+
+Dr. Apurba Layek <br>
+Phone: +91-343-2754691<br>
+Mobile : +91-9434788058 <br>
+Email: apurba.layek@me.nitdgp.ac.in<br>	
+    Dr. S. N. Mahato<br>	
+Phone: +91-343-2754339<br>
+Mobile : +91-9434788057<br>
+Email: sankar.mahato@ee.nitdgp.ac.in<br>
+Dr. Joydeep Banerjee <br>
+Mobile : +91 9434788054 <br>
+E-mail: joydeep.banerjee@hu.nitdgp.ac.in <br>		
+	<b style="color:#000">Associate Dean (Research & Consultancy)</b><br>
+    Dr. Amit Kumar Chakraborty<br>
+Phone: +91-343-2754780<br>
+Mobile : +91-9434788137<br>
+Email: amit.chakraborty@phy.nitdgp.ac.in<br>
+<b style="color:#000">Associate Dean (Training & Placement)</b><br>
+Dr. Tapas Kumar Saha<br>
+Phone : +91-343-2754341<br>
+Mobile  : +91-9434788171<br>
+Email: tapas.saha@ee.nitdgp.ac.in<br>
+Mr. Rajib Kumar Chatterjee<br>
+Phone : +91-343-2752128<br>
+Mobile  : +91-9434788162<br>
+Email: rajib.chatterjee@cc.nitdgp.ac.in<br>
+	</font>
+</div>
+
+ </div>
+</div>
+</div>
+<div class="row"> 
+
+ <div class="col-xs-12 col-md-12"> 
+	<div class="col-xs-12 col-main">
+	<div style="width:100%; padding-left:10px; height:25px; background-color:#1BAAAA;padding:2px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+	&nbsp;&nbsp;Heads of Departments
+	</div>
+ 
+
+ <div class="col-xs-12 col-md-6"> 
+
+<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Biotechnology 
+</b><br>
+Dr. Dalia Dasgupta Mandal <br>
+Phone: +91-343-2754032<br>
+Mobile : +91-9434788141<br>
+Email: hod@bt.nitdgp.ac.in<br>
+<b style="color:#000">Chemical Engineering </b><br>
+
+
+Dr. Susmita Dutta <br>
+Phone: +91-343-2754082, +91-343-2754076<br>
+Mobile : 91-9434788120<br>
+Email: hod@che.nitdgp.ac.in<br>
+<b style="color:#000">Chemistry </b><br>
+
+
+Dr. Dipankar Sukul <br>
+Phone: +91-343-2754138, +91-343-2754126<br>
+Mobile : +91-9434788066<br>
+Email: hod@ch.nitdgp.ac.in<br>
+<b style="color:#000">Civil Engineering 
+</b><br>
+
+Dr. Radhikesh Prasad Nanda<br>
+Phone: +91-343-2754197, +91-343-2754176<br>
+Mobile : +91-9434788118<br>
+Email: hod@ce.nitdgp.ac.in<br>
+<b style="color:#000">Computer Science & Engineering </b><br>
+
+
+Dr. Goutam Sanyal  <br>
+Phone: +91-343-2754235, +91-343-2754226/4227<br>
+Mobile :  91-9434788006<br>
+Email: hod@cse.nitdgp.ac.in<br>
+
+<b style="color:#000">Electrical Engineering </b><br>
+
+
+Dr. Parimal Acharjee<br>
+Phone: +91-343-2754329, +91-343-2754326/4327<br>
+Mobile : +91-9434788064<br>
+Email: hod@ee.nitdgp.ac.in<br>
+<b style="color:#000"> Electronics & Communication Engineering</b><br>
+
+Dr. Rowdra Ghatak <br>
+Phone: +91-343-2754385, +91-343-2754376/4377<br>
+Mobile: +91-9434788125 <br>
+Email: hod@ece.nitdgp.ac.in<br>
+</font>
+</div>
+
+ 
+<div class="col-xs-12 col-md-6"> 
+	<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Mathematics </b><br>
+Dr. Samarjit Kar<br>
+Phone: +91-343-2754582, +91-343-2754576/4577<br>
+Mobile : +91-9434788032<br>
+Email: hod@maths.nitdgp.ac.in<br>
+<b style="color:#000">Mechanical Engineering</b><br>
+
+
+
+Prof. Amar Nath Mullick <br>
+Phone: +91-343-2754696<br>
+Mobile : +91-9434788052<br>
+Email: hod@me.nitdgp.ac.in<br>
+<b style="color:#000">Physics </b><br>
+
+Prof. Pathik Kumbhakar <br>
+Phone: +91-343-2754782, +91-343-2754776/4777<br>
+Mobile : +91- 9434788090<br>
+Email: hod@phy.nitdgp.ac.in<br>
+<b style="color:#000">Management Studies </b><br>
+
+
+Dr. Avijan Dutta<br>
+Phone: +91-343-2754282, +91-343-2754276/4277<br>
+Mobile : +91-9434788035<br>
+Email: hod@dms.nitdgp.ac.in<br>	
+
+<b style="color:#000">Humanities & Social Science</b><br>
+Prof. Kajla Basu <br>
+Mobile : +91-9434788132<br>
+Email: hod@hu.nitdgp.ac.in<br>	
+
+<b style="color:#000">Metallurgical & Materials Engineering</b><br>
+
+Dr. Susanta Pramanik<br>
+Phone: +91-343-2754737, +91-343-2754726/4727<br>
+Mobile : +91-9434788183<br>
+Email: hod@mme.nitdgp.ac.in<br>
+<b style="color:#000">Earth & Environmental Study </b><br>
+
+
+Dr. Kalyan Adhikari <br>
+Phone: +91-343-2754429, +91-343-2754426/4427<br>
+Mobile : +91-9434788091<br>
+Email: hod@ees.nitdgp.ac.in<br>
+
+
+
+
+
+
+
+
+	</font>
+</div>
+
+ </div>
+</div>
+</div>
+<div class="row"> 
+ <div class="col-xs-12 col-md-6"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+		 Computer Centre
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+
+<b>Head-Computer Centre</b><br>
+Dr. Goutam Sanyal  <br>
+Phone: +91-343-2754235, +91-343-2754226/4227<br>
+Mobile :  91-9434788006<br>
+Email: hod@cse.nitdgp.ac.in
+		</font>
+		</div>
+    </div>
+
+ </div>
+ 
+  <div class="col-xs-12 col-md-6"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+         Library
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Assistant Librarian</b><br>
+
+Mr. Jitendra Kumar<br>
+Phone: +91-343-2752161<br>
+Mobile: +91-9434788004<br>
+Email: jitendra.kumar@admin.nitdgp.ac.in
+<br>
+
+		</font>
+		</div>
+    </div>
+
+ </div>
+</div>
+
+<div class="row"> 
+ <div class="col-xs-12 col-md-6"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+		 Continue Education Cell
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+
+<b>Chairman</b><br>
+Prof. kartik Chandra ghanta <br>
+Mobile :  91-9434788020<br>
+Email: kartik.ghanta@che.nitdgp.ac.in
+		</font>
+		</div>
+    </div>
+
+ </div>
+ 
+  <div class="col-xs-12 col-md-6"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+         Employee Planning & Welfare
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Chairman</b><br>
+
+Prof. Purnendu Ray<br>
+Mobile: +91-9434788037<br>
+Email: purnendu.ray@ce.nitdgp.ac.in
+<br>
+
+		</font>
+		</div>
+    </div>
+
+ </div>
+</div>
+
+<div class="row"> 
+ <div class="col-xs-12 col-md-6"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+		 Workshops
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+		<b style="color:#000">Faculty in-Charge-Workshops</b><br>
+
+Dr. Indrajit Basak<br>
+Phone:+91-343-2754691<br>
+Mobile: +91 9434788109<br>
+Email: indrajit.basak@me.nitdgp.ac.in<br><br><br>
+		</font>
+		</div>
+    </div>
+
+ </div>
+ 
+  <div class="col-xs-12 col-md-6"> 
+	<div class="col-xs-12 col-main">
+		 <div style="width:100%; height:25px; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+         Training & Placement
+		 </div>
+		<div style="padding-left:10px;">
+		<font style="font-size:14px; font-family:calibri">
+<b>Dean-Training & Placement</b><br>
+Dr. N. Banerjee<br>
+Mobile: +91-9434788009<br>
+Phone: +91-0343-2752228<br>
+Fax: +91-0343-2546753<br>
+Email: For Placement: placementcell@admin.nitdgp.ac.in<br>
+Email: For Training/Internship: training@admin.nitdgp.ac.in<br>
+		</font>
+		</div>
+    </div>
+
+ </div>
+</div>
+<div class="row"> 
+
+ <div class="col-xs-12 col-md-12"> 
+	<div class="col-xs-12 col-main">
+
+<div style="  width:100%; float:left; margin-bottom:10px; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+       Officers
+</div>
+ <div class="col-xs-12 col-md-6"> 
+<div style="padding-left:10px; width:100%; min-height:250px; background-color:#fff">
+<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Deputy Registrar (Establishment) 
+</b><br>
+
+Mr. Asit Kumar<br>
+Phone: +91-343-2752100<br>
+Mobile: +91-9434788157<br>
+Email: drest@admin.nitdgp.ac.in<br> 
+<b style="color:#000">Deputy Registrar (Academic & Examinations)</b><br>
+
+
+Mr. Dhrubajyoti Ray<br>
+Phone: +91-343-2752030<br>
+Mobile: +91-9434788012<br>
+Email: draca@admin.nitdgp.ac.in<br>
+<b style="color:#000">Deputy Registrar (Finance & Accounts)</b><br>
+
+
+Mr. U. C. Mukherjee<br>
+Phone: +91-343-2752073<br>
+Mobile: +91-9434788013<br>
+Email: dracs@admin.nitdgp.ac.in<br>
+<b style="color:#000">Deputy Registrar (Purchase & Stores)
+</b><br>
+Mr. Aloke Chattopadhyay<br>
+Phone: 0343-2546390<br>
+Mobile: +91-9434788015<br>
+Email: drps@admin.nitdgp.ac.in<br>
+<b style="color:#000">Assistant Registrar (Establishment)</b><br>
+
+Mr. Amiya Kumar Sardar<br>
+Phone: Will be updated soon<br>
+Mobile: +91-9434788100<br>
+Email: assistant.registrar@admin.nitdgp.ac.in<br>
+<b style="color:#000">Assistant Registrar(Internal Audit)</b><br>
+
+Mr. A. Das<br>
+Phone: +91-343-2752086<br>
+Mobile: +91-9434788014<br>
+Email: audit.officer@admin.nitdgp.ac.in<br>
+<b style="color:#000">Assistant Registrar (Student Welfare)</b><br>
+
+Mr. Sayon Bhattacharjee<br>
+Phone: Will be updated soon<br>
+Mobile: +91-9434788077<br>
+Email: sayon@admin.nitdgp.ac.in <br>
+<b style="color:#000">Assistant Registrar (Registrar's Secretariat, Legal Affairs & CPIO) </b><br>
+
+
+Mr. Debasish Mondal<br>
+Phone: +91-343-2757157<br>
+Mobile: +91-9434788046<br>
+Email: arhostels@admin.nitdgp.ac.in <br>
+
+</font>
+</div>
+</div>
+ <div class="col-xs-12 col-md-6"> 
+ <div style="padding-left:10px; width:100%; min-height:250px; background-color:#fff">
+<font style="font-size:14px; font-family:calibri">
+
+<b style="color:#000">Security Officer</b><br>
+
+
+Mr. Ajit Kumar Bhagat<br>
+Phone: Will be updated soon<br>
+Mobile: +91-9434788170<br>
+Email: so@admin.nitdgp.ac.in <br>
+<b style="color:#000">Staff Grievance Officer</b><br>
+
+Prof. Vijay Kumar Dwivedi<br>
+Mobile: +91-9434788097<br>
+Email: sgo@admin.nitdgp.ac.in <br>
+<b style="color:#000">Nodal Officer of DASA - 2015</b><br>
+
+Prof. V. K. Dwivedi<br>
+Mobile: +91-9434788097<br>
+Email: vijaykumar.dwivedi@ce.nitdgp.ac.in<br>
+<b style="color:#000">Liason Officer, SC-ST Cell</b><br>
+
+
+Dr. Apurba Layek<br>
+Mobile: +91-9434788058<br>
+Email: apurba.layek@me.nitdgp.ac.in <br>
+
+<b style="color:#000">Medical Officers</b><br>
+
+
+Dr. B. Sarkar <br>
+Phone: +91-343-2757118<br>
+Mobile: +91-9434788075<br>
+Email: b.sarkar@admin.nitdgp.ac.in<br>
+Dr. (Ms.) S. Patra<br>
+Phone: +91-343-2757116<br>
+Mobile: +91-9434788076<br>
+Email: s.patra@admin.nitdgp.ac.in<br>
+<b style="color:#000">Executive Engineer</b><br>
+Mr. Tanmay Haldar<br>
+Phone: +91-343-2757068<br>
+Mobile: +91-9434788016<br>
+Email: maint@admin.nitdgp.ac.in<br>
+</font>
+</div>
+</div>
+    </div>
+
+ </div>
+ </div>
+ 
+<div class="row"> 
+ <div class="col-xs-12 col-md-12"> 
+	<div class="col-xs-12 col-main">
+<div style="  width:100%; margin-bottom:10px;  float:left; background-color:#1BAAAA;padding:2px;padding-left:10px; border-radius:5px;font-family: calibri; font-size:14px; font-weight:bold; color:#FFF">
+      	
+Wardens for Halls Of Residence
+</div>
+
+ <div class="col-xs-12 col-md-6"> 
+
+<font style="font-size:14px; font-family:calibri">
+<b style="color:#000">Chief Warden </b><br>
+ 
+Dr. Rajat Mahapatra<br>  
+Phone: +91-343-2754429<br>
+Mobile: +91-9434788126<br>
+Email: chiefwarden@admin.nitdgp.ac.in<br>
+<b style="color:#000">Associate Chief Warden </b><br>
+Dr. Durbadol Mondal<br>
+Mobile : +91-9434788059<br>
+Email : durbadal.mondal@ece.nitdgp.ac.in<br>
+Dr. Surabhi Chaudhuri<br>
+Mobile : +91-9434788095<br>
+Email : surabhi.chaudhuri@bt.nitdgp.ac.in<br>
+
+<b style="color:#000">Netaji Subhas Chandra Bose Hall of Residence (Hall-1)</b><br>
+  
+Dr. Suvomoy Chongder<br> 
+Mobile: +91-9434788094<br>
+Email: suvamoy.changder@ca.nitdgp.ac.in<br>
+Dr. Aniruddha Mondal<br>
+Mobile: +91-9434789024<br>
+Email:  aniruddha.mondal@phy.nitdgp.ac.in<br>
+Jr. Asstt. 9434788081 (Mr. Rajendra Das)<br>
+<b style="color:#000">Jagadish Chandra Bose Hall of Residence (Hall-2)</b><br>
+
+ 
+Dr. Sajal Mukhopadhyay<br>
+Phone: +91-343-2754538<br>
+Mobile: +91-9434788177<br>
+Email: sajal.mukhopadhyay@it.nitdgp.ac.in<br>
+Dr.Sujit Karmakar<br>
+Mobile: +91-9434788144<br>
+Email: sujit.karmakar@me.nitdgp.ac.in<br>
+Jr. Asstt. 9434788082 (Mr. Debabrata Mukherjee)<br>
+<b style="color:#000">Rabindra Nath Tagore Hall of Residence (Hall-3)</b><br>
+
+Dr. Rajat Mahapatra<br>
+Phone: +91-343-2754396<br>
+Mobile: +91-9434788126<br>
+Email: rajat.mahapatra@ece.nitdgp.ac.in<br>
+Dr. Pijush Topder<br>  
+Phone: +91-343-2754196<br>
+Mobile: +91-9434788156<br>
+Email: pijush.topdar@ce.nitdgp.ac.in<br>
+Sr. Asstt. 9434788083 (Mr. Sajal Mukherjee)<br>
+<b style="color:#000">C V Raman Hall of Residence (Hall-4)   </b><br>
+
+Dr. Gopinath Halder<br>
+Phone: +91-343-2754090<br>
+Mobile: +91-9434788189<br>
+Email: gopinath.halder@che.nitdgp.ac.in<br>
+
+Dr. Sanjay Dhar Roy<br>
+Phone: +91-343-2754383<br>
+Mobile: +91-9434788166<br>
+Email: sanjay.dharroy@ece.nitdgp.ac.in<br>
+Jr. Asstt. 9434788084 (Mr. Dipankar Naskar)<br>
+<b style="color:#000">Swami Vivekananda Hall of Residence (Hall-5)  </b><br>
+
+Dr. Suman Halder<br> 
+Mobile: +91-9434788187<br>
+Email: suman.halder@ee.nitdgp.ac.in<br>
+Dr. Sujit Kumar Mondal<br>
+Phone: +91-343-2754392<br>
+Mobile: +91-9434789013<br>
+Email: sujit.mandal@ece.nitdgp.ac.in<br>
+Sr. Asstt. 9434788085 (Mr. Subol Ch. Bandopadhyay)<br>
+<b style="color:#000">Rishi Aurobindo Hall of Residence (Hall-6)</b><br>
+
+Dr Sanjib Sadhu<br>
+Mobile: +91-9434788160<br>
+Email: sanjib.sadhu@cse.nitdgp.ac.in<br>
+Dr. R.N. Barman<br>
+Mobile : +91-9434789018<br>
+Email: rn.barman@me.nitdgp.ac.in<br>
+Jr. Asstt. 9434788199 (Mr. Amit Lakra) <br>
+</font>
+</div>
+
+ 
+<div class="col-xs-12 col-md-6"> 
+	<font style="font-size:14px; font-family:calibri">
+<b style="color:#000"> Sister Nivedita Hall of Residence (Hall-7)  </b><br>
+
+Dr. Suchismita Roy<br>
+Phone: +91-343-2754233<br>
+Mobile: +91-9434788122<br>
+Email: suchismita.roy@cse.nitdgp.ac.in<br>
+Dr. Jayati De<br>
+Mobile: +91-9434788173<br>
+Email: jayati.dey@ee.nitdgp.ac.in<br>
+Jr. Asstt. 9434788087 (Mrs. Basanti Banerjee)<br>
+<b style="color:#000">Preetilata Waddader Hall of Residence (Hall-8)  </b><br>
+
+Dr. Mousumi Saha <br>
+Mobile: +91-9434788194<br>
+Email: mousumi.saha@ca.nitdgp.ac.in<br>
+Dr. Kazy Sufia Khannan<br>
+Mobile : +91-9434788200<br>
+Email: sufia_kazy@yahoo.com<br>
+Jr. Asstt. 9434788087 (Mrs. Basanti Banerjee)<br>
+<b style="color:#000">Satyendra Nath Bose Hall of Residence (Hall-9)  </b><br>
+
+Sri Jagannath De<br>
+Mobile: +91-9434788149<br>
+Email:  jagannath.de@me.nitdgp.ac.in<br>
+Dr. Anupam De<br>
+Phone: +91-343-2754281<br>
+Mobile: +91-9434789006<br>
+Email:  anupam.de@dms.nitdgp.ac.in<br>
+Dr. Durbadal Mondal<br>
+Phone: +91-343-2754740<br>
+Mobile: +91-9434788092<br>
+Email:  durbadal.mandal@mme.nitdgp.ac.in<br>
+Jr. Asstt. 9434788199 (Mr. Amit Lakra)<br>
+<b style="color:#000">Mother Teresa Hall of Residence (Hall-10) </b><br>
+
+Dr. Mousumi Saha <br>
+Mobile: +91-9434788194<br>
+Email: mousumi.saha@ca.nitdgp.ac.in<br>
+Dr. Kazy Sufia Khannan<br>
+Mobile : +91-9434788200<br>
+Email: sufia_kazy@yahoo.com<br>
+Jr. Asstt. 9434788087 (Mrs. Basanti Banerjee)<br>
+<b style="color:#000">Meghnad Saha Hall of Residence (Hall-11) </b><br>
+
+Dr. Bijay Kr. Show<br>
+Phone: +91-343-2754739<br>
+Mobile: +91-9434788184<br>
+Email:  bijaykumar.show@mme.nitdgp.ac.in<br>
+Dr. Manas Kr. Mondal<br>
+Phone: +91-343-2754736<br>
+Mobile: +91-9434789016<br>
+Email:  manas.mandal@mme.nitdgp.ac.in<br>
+Dr. Amlan Ghosh<br>
+Mobile: +91-9434789022<br>
+Email:  amlan.ghosh@dms.nitdgp.ac.in<br>
+Jr. Asstt. 9434788128 (Mr. Bikash Das)<br>
+<b style="color:#000">A.P.J. Abdul Kalam International Hostel (Hall-12) </b><br>
+Dr. Supriya Bera<br>
+Mobile: +91-9434788185<br>
+Email:  supriya.bera@mme.nitdgp.ac.in<br>
+Jr. Asstt. 9434788128 (Mr. Bikash Das)<br>
+
+<b style="color:#000">Sarojini Naidu Hall of Residence (Hall-13) </b><br>
+
+Dr. Durba Pal<br>
+Phone: +91-343-2754286<br>
+Mobile: +91-9434789007<br>
+Email: durba.pal@dms.nitdgp.ac.in<br>
+Dr. Nibedita Mahata<br>
+Mobile : +91-9434789020<br>
+Email:  nibedita.mahata@bt.nitdgp.ac.in<br>
+Mrs. Deepanwita Das<br>
+Mobile : +91-9434788179<br>
+Email : deepanwita.das@it.nitdgp.ac.in<br>
+Assistant(SG-I) - Mrs.Doli Mukherjee (9434788088)<br>
+
+	</font>
+
+
+
+	<div class="row"  style="background-color:#25252D">
+		<div class="col-xs-12">
+		  <h5 style="text-align:center;margin-top:10px;color:#fff">Copyright © 2019. All Rights Reserved. National Institute of Technology, Durgapur.  <br>Last Update:-
+		  			  13<sup>th</sup> Feb  2019 </br></h5>
+		</div>
+	</div>
+
+	
+	

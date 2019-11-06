@@ -1,0 +1,4 @@
+ <label>Select Gender: </label><br>
+			<input type="radio" name="gender" id="but"><span id="but">Male</span>&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="radio" name="gender" id="but"><span id="but">Female</span>&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="radio" name="gender" id="but"><span id="but">Female</span><br><br>./
